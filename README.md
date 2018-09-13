@@ -1,10 +1,2 @@
 # Hello-GitHub
-#include <iostream>
- using namespace std;
- int main()
- {
-  
-  
-   return 0;
- }
-  
+The harder you work, the luckier you will be。
