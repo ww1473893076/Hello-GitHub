@@ -3,7 +3,7 @@
  using namespace std;
  int main()
  {
-  cout<<"yq是一个智障"<<endl;
+  cout<<"hello GitHub"<<endl;
   
    return 0;
  }
